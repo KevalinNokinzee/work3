@@ -1,0 +1,23 @@
+<div class="bar bar-header bar-positive" >
+
+  <h1 class="title">แก้ไขข้อมูลผู้ดูแลระบบ</h1>
+</div>
+<form ng-submit="editadmin()">
+<div class="list has-subheader">
+<label class="item item-input">
+    <span class="input-label">ID :</span>
+    <input type="text" ng-model="Editadmin.editadmin.admin_id">
+  </label>
+  <label class="item item-input">
+    <span class="input-label">Username :</span>
+    <input type="text" ng-model="Editadmin.editadmin.admin_user">
+  </label>
+  <label class="item item-input">
+    <span class="input-label">Password :</span>
+    <input type="password" ng-model="Editadmin.editadmin.admin_password">
+  </label>
+  <button class="button button-block button button-positive">
+แก้ไข
+</button>
+</div>
+</form>

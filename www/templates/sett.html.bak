@@ -1,0 +1,69 @@
+<div class="item range">
+  <i class="icon ion-volume-low"></i>
+  <input type="range" name="volume">
+  <i class="icon ion-volume-high"></i>
+</div>
+
+<div class="list">
+  <div class="item range range-positive">
+    <i class="icon ion-ios-sunny"></i>
+    <input type="range" name="volume" min="0" max="100" value="33">
+    <i class="icon ion-ios-sunny-outline"></i>
+  </div>
+</div>
+<div class="list">
+  <div class="item range range-positive">
+    <i class="ion-ios-lightbulb"></i>
+    <input type="range" name="volume" min="0" max="100" value="33">
+    <i class="ion-ios-lightbulb-outline"></i>
+  </div>
+</div>
+<div class="list">
+  <div class="item range range-positive">
+    <i class="ion-ios-lightbulb"></i>
+    <input type="range" name="volume" min="0" max="100" value="33">
+    <i class="ion-ios-lightbulb-outline"></i>
+  </div>
+</div>
+<div class="list">
+  <div class="item range range-positive">
+    <i class="ion-ios-bolt"></i>
+    <input type="range" name="volume" min="0" max="100" value="33">
+    <i class="ion-ios-bolt-outline"></i>
+  </div>
+</div>
+<div class="list">
+  <div class="item range range-positive">
+    <i class="ion-ios-moon"></i>
+    <input type="range" name="volume" min="0" max="100" value="33">
+    <i class="ion-ios-moon-outline"></i>
+  </div>
+</div>
+<div class="list">
+  <div class="item range range-positive">
+    <i class="ion-ios-partlysunny"></i>
+    <input type="range" name="volume" min="0" max="100" value="33n ">
+    <i class="ion-ios-partlysunny-outline"></i>
+  </div>
+</div>
+
+</div>
+<div class="tabs tabs-icon-only">
+  <a ui-sref="login" class="tab-item">
+    <i class="icon ion-home"></i>
+  </a>
+ <a ui-sref="history" class="tab-item">
+    <i class="icon ion-person"></i>
+  </a>
+  <a ui-sref="Gallory" class="tab-item">
+    <i class="icon ion-images"></i>
+  </a>
+  <a ui-sref="list" class="tab-item">
+    <i class="icon ion-star"></i>
+  </a>
+  <a ui-sref="sett" class="tab-item">
+    <i class="icon ion-gear-a"></i>
+  </a>
+ 
+  
+</div>

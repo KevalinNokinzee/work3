@@ -1,0 +1,29 @@
+<div class="list">
+
+    <a ng-repeat="list in datalist" class="item item-thumbnail-left" >
+      <img src="{{list.pic}}">
+      <h2>{{list.fname}}</h2>
+      <p>{{list.lname}}</p>
+    </a>
+
+	
+
+</div>
+<div class="tabs tabs-icon-only">
+  <a ui-sref="login" class="tab-item">
+    <i class="icon ion-home"></i>
+  </a>
+  <a ui-sref="history" class="tab-item">
+    <i class="icon ion-person"></i>
+  </a>
+  <a ui-sref="Gallory" class="tab-item">
+    <i class="icon ion-images"></i>
+  </a>
+  <a ui-sref="list" class="tab-item">
+    <i class="icon ion-star"></i>
+  </a>
+  <a ui-sref="sett" class="tab-item">
+    <i class="icon ion-gear-a"></i>
+  </a>
+  
+</div> 

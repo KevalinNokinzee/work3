@@ -1,0 +1,51 @@
+<div class="list">
+
+    <a class="item item-thumbnail-left" href="#">
+      <img src="img/fb1.jpg">
+      <h2>My freinds</h2>
+      <p>Goodbye Senior</p>
+    </a>
+	<a class="item item-thumbnail-left" href="#">
+      <img src="img/fb2.jpg">
+      <h2>Watering elderly elders</h2>
+      <p>Thai New Year</p>
+    </a>
+	<a class="item item-thumbnail-left" href="#">
+      <img src="img/fb3.jpg">
+      <h2>Ghost</h2>
+      <p>Science Day</p>
+    </a>
+	<a class="item item-thumbnail-left" href="#">
+      <img src="img/fb4.jpg">
+      <h2>Field Trips</h2>
+      <p>Nine Inch Nails</p>
+    </a>
+	<a class="item item-thumbnail-left" href="#">
+      <img src="img/fb5.jpg">
+      <h2>Party</h2>
+      <p>Nine Inch Nails</p>
+    </a>
+    <a class="item item-thumbnail-left" href="#">
+	<img src="img/fb5.jpg" class="w3-hover-opacity" alt="Norway" style="width:50%">
+	</a>
+   
+
+</div>
+<div class="tabs tabs-icon-only">
+  <a ui-sref="login" class="tab-item">
+    <i class="icon ion-home"></i>
+  </a>
+  <a ui-sref="history" class="tab-item">
+    <i class="icon ion-person"></i>
+  </a>
+  <a ui-sref="images" class="tab-item">
+    <i class="icon ion-images"></i>
+  </a>
+  <a ui-sref="list" class="tab-item">
+    <i class="icon ion-star"></i>
+  </a>
+  <a ui-sref="sett" class="tab-item">
+    <i class="icon ion-gear-a"></i>
+  </a>
+  
+</div>

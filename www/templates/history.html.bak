@@ -1,0 +1,42 @@
+<div class="list card">
+
+  <div class="item item-avatar">
+    <img src="img/min1.jpg">
+    <h2>Kevalin Nokinzee (Min)</h2>
+    <p>May 18, 2017</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="img/cat.jpg">
+    <p>
+      Hello! My name's Kevalin Nokinzee. You can call me Min for shot.
+	  I'm 20 years old. I study at Chaiyaphum Technical College. I study 
+	  Information Technology. I live in Nakhonratchasima Province. My Facebook is
+	  M'min Kevalin. And instragrame is jmin_minj. Nice to meet you.
+    </p>
+    <p>
+      <a href="#" class="subdued">198 Like</a>
+      <a href="#" class="subdued">32 Comments</a>
+    </p>
+  </div>
+
+</div>
+<div class="tabs tabs-icon-only">
+  <a ui-sref="login" class="tab-item">
+    <i class="icon ion-home"></i>
+  </a>
+ <a ui-sref="history" class="tab-item">
+    <i class="icon ion-person"></i>
+  </a>
+  <a ui-sref="Gallory" class="tab-item">
+    <i class="icon ion-images"></i>
+  </a>
+  <a ui-sref="list" class="tab-item">
+    <i class="icon ion-star"></i>
+  </a>
+  <a ui-sref="sett" class="tab-item">
+    <i class="icon ion-gear-a"></i>
+  </a>
+ 
+  
+</div>
